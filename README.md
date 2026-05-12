@@ -73,4 +73,4 @@ P1 + P2 + ... + Pm = 1
 ├── simulator              # Executable simulator
 ├── test_simulator.py      # Automated testing suite
 ├── makefile               # Build automation
-└── dry.pdf                # Theoretical analysis and report
+└──                
